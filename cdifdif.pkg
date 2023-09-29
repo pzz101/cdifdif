@@ -1,0 +1,10 @@
+v 2.3.0
+d 'GITHUB': github package manager
+d 
+d estimating difference-in-differences
+d 
+d Distribution-Date:   20210920
+d License: MIT
+d 
+F cdifdif.ado
+F cdifdif.sthlp
